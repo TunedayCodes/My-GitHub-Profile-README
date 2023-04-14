@@ -10,7 +10,7 @@ const tundeFadipe = {
   nickname: "TunedayCodes",
   SportFan: [ "Yes!!", "i support Arsenal FC"],
   stacks: ["HTML", "CSS", "JAVASCRIPT"],
-  challenge: "I currently learning React",
+  challenge: "I'm currently learning React",
   reachMe: "fadipetunde5@gmail.com"
 }
 ```
