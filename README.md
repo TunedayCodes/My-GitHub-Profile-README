@@ -1,6 +1,19 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="120"/>
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50"/>
 </div>
+
+```Javascript
+const tundeFadipe = {
+  openTowork: true,
+  position:  "web developer",
+  lookingTo:  "Learning, Collaborate and contribute to open source project",
+  nickname: "TunedayCodes",
+  SportFan: [ "Yes!!", "i support Arsenal FC"],
+  stacks: ["HTML", "CSS", "JAVASCRIPT"],
+  challenge: "I currently learning React",
+  reachMe: "fadipetunde5@gmail.com"
+}
+```
 
 Hello there, My name is <em>Tunde Fadipe</em>
 =========================================================================================================================================
