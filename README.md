@@ -24,7 +24,7 @@ a Web/software Developer
 I also go by the name TunedayCodes, this name was birth out of my passion for tech!. I'm a web developer, a software developer/Engineer I'm a creative and innovative individual with good communication skills, I'm always open-minded and ready to learn new things at every opportunity I get. When I'm not coding or working on any projects or tasks, you will probably find me hanging out with friends, Reading documentations, watching live football games or listening to music.
 
 * 🌍  I'm based in Ibadan, Nigeria.
-* 🖥️  See my portfolio at [my website](https://tunedaycodes.github.io/Web-Dev-Portofolio/)
+* 🖥️  See my portfolio at [my website](https://web-dev-folio-2023.vercel.app/)
 * ✉️  You can contact me at [fadipetunde5@gmail.com](mailto:fadipetunde5@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on ideas, projects, or anything in general that invloves solution provision through coding/programming.
