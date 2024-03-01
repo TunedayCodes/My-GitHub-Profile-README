@@ -9,8 +9,8 @@ const tundeFadipe = {
   lookingTo:  "Learning, Collaborate and contribute to open source project",
   nickname: "TunedayCodes",
   SportFan: [ "Yes!!", "i support Arsenal FC"],
-  stacks: ["HTML", "CSS", "JAVASCRIPT"],
-  challenge: "I'm currently learning React",
+  stacks: ["HTML", "CSS", "JAVASCRIPT", "PHP"],
+  challenge: "I'm currently learning React and PHP",
   reachMe: "fadipetunde5@gmail.com"
 }
 ```
